@@ -11,7 +11,7 @@ import SDWebImage
 class ProfileViewController: UIViewController {
     
     let containerView = UIView()
-    let imageView = UIImageView(image: #imageLiteral(resourceName: "human3"), contentMode: .scaleAspectFill)
+    let imageView = UIImageView(image: #imageLiteral(resourceName: "Logo"), contentMode: .scaleAspectFill)
     let nameLabel = UILabel(text: "Reese Witherspoon", font: .systemFont(ofSize: 20, weight: .light))
     let aboutMeLabel = UILabel(text: "You have the opportunity to chat with best girl in the world!", font: .systemFont(ofSize: 16, weight: .light))
     let myTextField = InsertableTextField()

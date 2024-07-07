@@ -11,7 +11,7 @@ import SDWebImage
 class ChatRequestViewController: UIViewController {
     
     let containerView = UIView()
-    let imageView = UIImageView(image: #imageLiteral(resourceName: "human10"), contentMode: .scaleAspectFill)
+    let imageView = UIImageView(image: #imageLiteral(resourceName: "Logo"), contentMode: .scaleAspectFill)
     let nameLabel = UILabel(text: "Maksim", font: .systemFont(ofSize: 20, weight: .light))
     let aboutMeLabel = UILabel(text: "Научусь летать с тобой на небо там, где звёзды до рассвета говорят телами о любви!", font: .systemFont(ofSize: 16, weight: .light))
     let acceptButton = UIButton(backgroundColor: .black, title: "ACCEPT", titleColor: .white, font: .laoSangamMN20(), cornerRadius: 10, isShadow: false)
