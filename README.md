@@ -21,6 +21,6 @@ git clone https://github.com/white4ocolate/Let-s-Talk.git
 
 
 ## Requirements
-- iOS 17.0+
+- iOS 16.0+
 - Xcode 11.0+
 - Swift 5.0+
