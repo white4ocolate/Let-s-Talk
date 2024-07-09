@@ -198,7 +198,3 @@ extension PeopleViewController: UICollectionViewDelegate {
         present(profileVC, animated: true)
     }
 }
-
-#Preview{
-    MainTabBarController()
-}

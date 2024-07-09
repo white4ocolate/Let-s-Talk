@@ -106,7 +106,3 @@ extension UIViewController {
         present(alertController, animated: true)
     }
 }
-
-#Preview {
-    SignUpViewController()
-}

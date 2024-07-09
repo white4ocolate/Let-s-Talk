@@ -75,7 +75,3 @@ extension ActiveChatCell {
         ])
     }
 }
-
-#Preview{
-    MainTabBarController()
-}

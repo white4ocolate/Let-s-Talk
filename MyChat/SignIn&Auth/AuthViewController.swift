@@ -85,9 +85,3 @@ extension AuthViewController: AuthNavigationDelegate {
         present(signUpViewController, animated: true)
     }
 }
-
-#Preview {
-    AuthViewController()
-}
-
-

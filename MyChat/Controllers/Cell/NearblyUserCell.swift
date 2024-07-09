@@ -84,6 +84,3 @@ extension NearblyUserCell {
         ])
     }
 }
-#Preview {
-    MainTabBarController()
-}

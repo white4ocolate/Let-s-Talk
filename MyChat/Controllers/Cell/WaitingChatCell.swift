@@ -47,6 +47,3 @@ extension WaitingChatCell {
     }
 }
 
-#Preview{
-    MainTabBarController()
-}

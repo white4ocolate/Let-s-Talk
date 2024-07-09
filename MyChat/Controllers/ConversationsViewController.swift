@@ -268,7 +268,3 @@ extension ConversationsViewController: WaitingChatsNavigation {
         }
     }
 }
-
-#Preview{
-    MainTabBarController()
-}
